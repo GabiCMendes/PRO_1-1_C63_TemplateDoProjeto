@@ -31,7 +31,7 @@ export default class HomeScreen extends Component{
       {
         return data.json()
       }
-      else
+      else 
       {
         return null
       }
